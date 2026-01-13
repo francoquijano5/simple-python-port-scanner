@@ -1,4 +1,5 @@
 Simple Port Scanner in Python
+
 Este proyecto es un escáner de red básico que verifica la disponibilidad de puertos específicos en una dirección IP utilizando el protocolo TCP.
    
    Características:
